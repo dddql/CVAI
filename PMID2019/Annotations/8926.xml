@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>8926.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>protoperidinium</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>410</xmin>
+      <ymin>552</ymin>
+      <xmax>1004</xmax>
+      <ymax>1008</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

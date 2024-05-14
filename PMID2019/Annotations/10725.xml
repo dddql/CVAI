@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>10725.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>coscinodiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>630</xmin>
+      <ymin>167</ymin>
+      <xmax>816</xmax>
+      <ymax>350</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>803</xmin>
+      <ymin>93</ymin>
+      <xmax>1277</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

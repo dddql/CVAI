@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6202.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>659</xmin>
+      <ymin>499</ymin>
+      <xmax>877</xmax>
+      <ymax>666</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>948</xmin>
+      <ymin>118</ymin>
+      <xmax>1075</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

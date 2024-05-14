@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6420.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema frauenfeldii</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>575</xmin>
+      <ymin>165</ymin>
+      <xmax>1082</xmax>
+      <ymax>396</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>157</xmin>
+      <ymin>609</ymin>
+      <xmax>394</xmax>
+      <ymax>853</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

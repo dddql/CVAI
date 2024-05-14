@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1095.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2506</xmin>
+      <ymin>1850</ymin>
+      <xmax>4344</xmax>
+      <ymax>2370</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

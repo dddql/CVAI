@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>558.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>coscinodiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1024</xmin>
+      <ymin>101</ymin>
+      <xmax>1346</xmax>
+      <ymax>424</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>576</ymin>
+      <xmax>267</xmax>
+      <ymax>681</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

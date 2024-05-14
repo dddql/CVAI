@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1296.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>helicotheca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>403</xmin>
+      <ymin>311</ymin>
+      <xmax>1324</xmax>
+      <ymax>799</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

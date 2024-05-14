@@ -1,0 +1,21 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>1555.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>667</xmin>
+      <ymin>424</ymin>
+      <xmax>928</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

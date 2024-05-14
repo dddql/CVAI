@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>8560.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>369</xmin>
+      <ymin>185</ymin>
+      <xmax>528</xmax>
+      <ymax>647</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1061</xmin>
+      <ymin>202</ymin>
+      <xmax>1249</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

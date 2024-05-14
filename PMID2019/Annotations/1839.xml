@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1839.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>386</xmin>
+      <ymin>281</ymin>
+      <xmax>1007</xmax>
+      <ymax>813</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>382</xmin>
+      <ymin>45</ymin>
+      <xmax>533</xmax>
+      <ymax>452</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

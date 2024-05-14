@@ -1,0 +1,45 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>7377.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>skeletonema</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1089</xmin>
+      <ymin>121</ymin>
+      <xmax>1154</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>878</xmin>
+      <ymin>462</ymin>
+      <xmax>1181</xmax>
+      <ymax>692</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>241</ymin>
+      <xmax>315</xmax>
+      <ymax>513</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>

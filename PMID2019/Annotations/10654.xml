@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>10654.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>466</xmin>
+      <ymin>329</ymin>
+      <xmax>767</xmax>
+      <ymax>556</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>659</xmin>
+      <ymin>553</ymin>
+      <xmax>837</xmax>
+      <ymax>690</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

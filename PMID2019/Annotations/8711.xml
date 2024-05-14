@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>8711.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>97</ymin>
+      <xmax>508</xmax>
+      <ymax>714</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema frauenfeldii</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>736</xmin>
+      <ymin>604</ymin>
+      <xmax>894</xmax>
+      <ymax>763</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

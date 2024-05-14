@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>3279.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>360</xmin>
+      <ymin>60</ymin>
+      <xmax>542</xmax>
+      <ymax>726</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>264</ymin>
+      <xmax>224</xmax>
+      <ymax>502</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

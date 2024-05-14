@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>2937.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>53</xmin>
+      <ymin>707</ymin>
+      <xmax>378</xmax>
+      <ymax>943</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1028</xmin>
+      <ymin>202</ymin>
+      <xmax>1348</xmax>
+      <ymax>865</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

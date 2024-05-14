@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>4843.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>349</xmin>
+      <ymin>303</ymin>
+      <xmax>1240</xmax>
+      <ymax>655</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>603</xmin>
+      <ymin>548</ymin>
+      <xmax>759</xmax>
+      <ymax>703</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

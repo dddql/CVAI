@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1115.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>coscinodiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>3137</xmin>
+      <ymin>1185</ymin>
+      <xmax>4402</xmax>
+      <ymax>2370</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

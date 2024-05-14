@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>5198.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>rhizosolenia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>556</xmin>
+      <ymin>17</ymin>
+      <xmax>1248</xmax>
+      <ymax>992</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

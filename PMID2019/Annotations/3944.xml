@@ -1,0 +1,33 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>3944.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>866</xmin>
+      <ymin>10</ymin>
+      <xmax>1120</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1117</xmin>
+      <ymin>752</ymin>
+      <xmax>1307</xmax>
+      <ymax>983</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

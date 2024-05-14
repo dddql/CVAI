@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6340.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>589</xmin>
+      <ymin>408</ymin>
+      <xmax>735</xmax>
+      <ymax>630</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>detonula pumila</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1133</xmin>
+      <ymin>889</ymin>
+      <xmax>1290</xmax>
+      <ymax>1006</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>3276.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bacteriastrum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>407</ymin>
+      <xmax>852</xmax>
+      <ymax>720</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>848</xmin>
+      <ymin>1</ymin>
+      <xmax>955</xmax>
+      <ymax>1024</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

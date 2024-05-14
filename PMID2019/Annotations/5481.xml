@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>5481.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema frauenfeldii</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>121</ymin>
+      <xmax>950</xmax>
+      <ymax>591</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>979</xmin>
+      <ymin>573</ymin>
+      <xmax>1188</xmax>
+      <ymax>712</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

@@ -1,0 +1,33 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>1516.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>269</xmin>
+      <ymin>96</ymin>
+      <xmax>480</xmax>
+      <ymax>471</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>357</xmin>
+      <ymin>501</ymin>
+      <xmax>1166</xmax>
+      <ymax>729</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

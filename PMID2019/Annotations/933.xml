@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>933.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>901</xmin>
+      <ymin>709</ymin>
+      <xmax>1462</xmax>
+      <ymax>992</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

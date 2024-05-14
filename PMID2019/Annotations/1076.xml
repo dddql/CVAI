@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1076.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>871</xmin>
+      <ymin>312</ymin>
+      <xmax>1806</xmax>
+      <ymax>1320</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2887</xmin>
+      <ymin>2162</ymin>
+      <xmax>4829</xmax>
+      <ymax>2727</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

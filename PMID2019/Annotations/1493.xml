@@ -1,0 +1,33 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>1493.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>456</xmin>
+      <ymin>640</ymin>
+      <xmax>672</xmax>
+      <ymax>786</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skeletonema</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>832</xmin>
+      <ymin>702</ymin>
+      <xmax>900</xmax>
+      <ymax>980</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

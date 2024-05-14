@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>5527.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>protoperidinium</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>901</xmin>
+      <ymin>710</ymin>
+      <xmax>1130</xmax>
+      <ymax>926</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>386</xmin>
+      <ymin>64</ymin>
+      <xmax>591</xmax>
+      <ymax>184</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

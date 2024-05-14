@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1224.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1171</xmin>
+      <ymin>1120</ymin>
+      <xmax>2887</xmax>
+      <ymax>2816</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>4060</xmin>
+      <ymin>235</ymin>
+      <xmax>4794</xmax>
+      <ymax>2335</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

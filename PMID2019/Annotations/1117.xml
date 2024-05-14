@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1117.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium trichoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1037</xmin>
+      <ymin>1</ymin>
+      <xmax>5048</xmax>
+      <ymax>3612</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

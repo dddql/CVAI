@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>752.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>detonula pumila</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>914</xmin>
+      <ymin>697</ymin>
+      <xmax>1246</xmax>
+      <ymax>981</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

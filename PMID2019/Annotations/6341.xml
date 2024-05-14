@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6341.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1130</xmin>
+      <ymin>895</ymin>
+      <xmax>1279</xmax>
+      <ymax>999</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>591</xmin>
+      <ymin>411</ymin>
+      <xmax>736</xmax>
+      <ymax>637</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

@@ -1,0 +1,45 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>10114.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>278</xmin>
+      <ymin>263</ymin>
+      <xmax>364</xmax>
+      <ymax>439</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>643</xmin>
+      <ymin>201</ymin>
+      <xmax>915</xmax>
+      <ymax>664</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>466</xmin>
+      <ymin>1</ymin>
+      <xmax>810</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>

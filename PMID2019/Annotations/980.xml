@@ -1,0 +1,45 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>980.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>897</xmin>
+      <ymin>687</ymin>
+      <xmax>1287</xmax>
+      <ymax>1349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>822</ymin>
+      <xmax>441</xmax>
+      <ymax>1193</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>557</xmin>
+      <ymin>252</ymin>
+      <xmax>798</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>

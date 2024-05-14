@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>4997.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>skeletonema</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1129</xmin>
+      <ymin>1000</ymin>
+      <xmax>3387</xmax>
+      <ymax>1831</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

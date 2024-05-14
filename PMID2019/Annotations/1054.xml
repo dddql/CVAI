@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1054.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2010</xmin>
+      <ymin>1850</ymin>
+      <xmax>4106</xmax>
+      <ymax>3085</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>3452</xmin>
+      <ymin>1354</ymin>
+      <xmax>4375</xmax>
+      <ymax>1950</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

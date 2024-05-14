@@ -1,0 +1,45 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6439.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1215</xmin>
+      <ymin>12</ymin>
+      <xmax>1328</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1034</xmin>
+      <ymin>136</ymin>
+      <xmax>1209</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>489</xmin>
+      <ymin>245</ymin>
+      <xmax>931</xmax>
+      <ymax>619</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>

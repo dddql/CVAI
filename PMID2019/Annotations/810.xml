@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>810.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>corethron</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>920</xmin>
+      <ymin>696</ymin>
+      <xmax>1333</xmax>
+      <ymax>1060</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

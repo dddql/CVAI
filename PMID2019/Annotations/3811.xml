@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>3811.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>thalassionema frauenfeldii</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>951</xmin>
+      <ymin>562</ymin>
+      <xmax>1275</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

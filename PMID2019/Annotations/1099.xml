@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1099.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dinophysis caudata</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2548</xmin>
+      <ymin>2631</ymin>
+      <xmax>3179</xmax>
+      <ymax>3504</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

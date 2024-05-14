@@ -1,0 +1,45 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>935.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1024</xmin>
+      <ymin>34</ymin>
+      <xmax>1341</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pleurosigma pelagicum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>850</xmin>
+      <ymin>660</ymin>
+      <xmax>1018</xmax>
+      <ymax>948</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rhizosolenia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>185</ymin>
+      <xmax>1306</xmax>
+      <ymax>731</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>

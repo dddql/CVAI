@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>956.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1227</xmin>
+      <ymin>1098</ymin>
+      <xmax>1452</xmax>
+      <ymax>1449</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>341</xmin>
+      <ymin>346</ymin>
+      <xmax>943</xmax>
+      <ymax>1285</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1087.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>eucampia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>3264</xmin>
+      <ymin>1512</ymin>
+      <xmax>4741</xmax>
+      <ymax>2535</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

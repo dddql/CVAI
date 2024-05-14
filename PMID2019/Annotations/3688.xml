@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>3688.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>biddulphia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>577</xmin>
+      <ymin>458</ymin>
+      <xmax>1276</xmax>
+      <ymax>620</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

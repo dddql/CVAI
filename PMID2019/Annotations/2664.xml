@@ -1,0 +1,21 @@
+<annotation verified="yes">
+  <folder>VOC</folder>
+  <filename>2664.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bacteriastrum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>497</xmin>
+      <ymin>277</ymin>
+      <xmax>990</xmax>
+      <ymax>779</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6728.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>509</xmin>
+      <ymin>358</ymin>
+      <xmax>732</xmax>
+      <ymax>580</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

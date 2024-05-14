@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>2481.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ditylum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>600</xmin>
+      <ymin>330</ymin>
+      <xmax>893</xmax>
+      <ymax>1016</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

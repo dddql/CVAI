@@ -1,0 +1,57 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>6524.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>497</ymin>
+      <xmax>185</xmax>
+      <ymax>691</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>thalassionema nitzschioides</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>287</xmin>
+      <ymin>459</ymin>
+      <xmax>432</xmax>
+      <ymax>683</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1093</xmin>
+      <ymin>2</ymin>
+      <xmax>1207</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium furca</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1046</xmin>
+      <ymin>848</ymin>
+      <xmax>1347</xmax>
+      <ymax>1015</ymax>
+    </bndbox>
+  </object>
+<object_num>4</object_num></annotation>

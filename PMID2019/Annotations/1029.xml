@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>1029.jpg</filename>
+  <size>
+    <width>5440</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>guinardia flaccida</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2791</xmin>
+      <ymin>1673</ymin>
+      <xmax>4252</xmax>
+      <ymax>2908</ymax>
+    </bndbox>
+  </object>
+<object_num>1</object_num></annotation>

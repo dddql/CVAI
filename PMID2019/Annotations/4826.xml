@@ -1,0 +1,33 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>4826.jpg</filename>
+  <size>
+    <width>1360</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ceratium tripos</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>691</xmin>
+      <ymin>334</ymin>
+      <xmax>1225</xmax>
+      <ymax>896</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium tripos</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>622</xmin>
+      <ymin>467</ymin>
+      <xmax>1000</xmax>
+      <ymax>916</ymax>
+    </bndbox>
+  </object>
+<object_num>2</object_num></annotation>

@@ -1,0 +1,45 @@
+<annotation verified="no">
+  <folder>VOC</folder>
+  <filename>870.jpg</filename>
+  <size>
+    <width>2040</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chaetoceros</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>424</xmin>
+      <ymin>1079</ymin>
+      <xmax>1025</xmax>
+      <ymax>1427</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>detonula pumila</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1282</xmin>
+      <ymin>912</ymin>
+      <xmax>1836</xmax>
+      <ymax>1138</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ceratium fusus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>270</xmin>
+      <ymin>303</ymin>
+      <xmax>1373</xmax>
+      <ymax>593</ymax>
+    </bndbox>
+  </object>
+<object_num>3</object_num></annotation>
